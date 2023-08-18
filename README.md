@@ -5,7 +5,7 @@ This is a React application that demonstrates step navigation with dynamic styli
 - Step navigation using "Prev" and "Next" buttons.
 - Dynamic styling to indicate active and inactive steps.- Disabled buttons for the first step and the last step.
 - Color changes for steps and buttons based on their state.
-- 
+
 ## Getting Started
 Follow these instructions to set up and run the application on your local machine:
    1. Clone the repository:
