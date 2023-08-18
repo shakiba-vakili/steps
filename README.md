@@ -15,7 +15,8 @@ Follow these instructions to set up and run the application on your local machin
    3. Start the development server:
    bash   npm start
    4. Open your browser and visit http://localhost:3000 to see the application in action.
-    
+
+  
 ## Usage
 - Click the "Next" button to move to the next step.
 - Click the "Prev" button to move to the previous step.
